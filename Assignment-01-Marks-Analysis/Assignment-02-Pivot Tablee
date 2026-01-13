@@ -1,0 +1,16 @@
+# Assignment 02 – Data Summarization using Pivot Tables
+
+## Objective
+To convert raw student performance data into a structured summary format
+using Pivot Tables in Google Sheets.
+
+## Tasks Performed
+- Created pivot tables from raw data
+- Grouped data by batch and student
+- Calculated average and cumulative scores
+
+## Skills Used
+- Google Sheets
+- Pivot Tables
+- Data Aggregation
+- Reporting
